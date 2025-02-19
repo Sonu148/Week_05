@@ -1,0 +1,4 @@
+EmployeeID,Name,Salary
+1,Aman,ENC(55000)
+2,Satyam,ENC(60000)
+3,Rishu,ENC(65000)
